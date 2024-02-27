@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-27T14:11:09 IST" name="Default suite" finished-at="2024-02-27T14:11:14 IST" duration-ms="4691">
+    <groups>
+    </groups>
+    <test started-at="2024-02-27T14:11:09 IST" name="Default test" finished-at="2024-02-27T14:11:14 IST" duration-ms="4691">
+      <class name="Axis.DataDriven.ReadClass">
+        <test-method signature="fblogin()[pri:0, instance:Axis.DataDriven.ReadClass@6ae5aa72]" started-at="2024-02-27T14:11:09 IST" name="fblogin" finished-at="2024-02-27T14:11:14 IST" duration-ms="4617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fblogin -->
+      </class> <!-- Axis.DataDriven.ReadClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
